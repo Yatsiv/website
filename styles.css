@@ -1,0 +1,10 @@
+.imgs3 { 
+    margin-top:  ;
+    margin-left: 500px;
+   -webkit-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -ms-transition: all 1s ease;
+   transition: all 1s ease;}
+  .imgs3:hover {
+  -webkit-filter: blur(2px);}
